@@ -18,4 +18,20 @@ To run the program you have to do the following:
 2. In the dataset folder you have to put the FER2013 dataset csv file which you have previously downloaded from Kaggle. In addition, you have to create a folder name it photo and put all your unseen photos for the test process inside it.
 3. At the beginning you have to run the FER2013DatasetCreation.py file, to transform the csv content to the training, validation and test set images for the networks (this takes some time dependent on the system).
 4. In the MainProc.py file you can choose by uncommenting the appropriate line, what process you want to execute (training or testing). IMPORTANT: Don't forget to leave comment the lines you don't want to execute.
-5. If you want to execute the training process from the beginning you have to delete manually the hdf5 file of the network e.g. logs -> vgg16 -> epoch-15-val_acc_0.71.hdf5. 
+5. If you want to execute the training process from the beginning you have to delete manually the hdf5 file of the network e.g. logs -> vgg16 -> epoch-15-val_acc_0.71.hdf5.
+
+## Python libraries used
+![Python libs](https://github.com/michailtam/Emotion-recognition-from-images-using-deep-learning/blob/master/images/python_libs.PNG)
+
+## Screenshots of the training and test executions
+| VGG16 | Incpetion v3 |
+| ------------- | ------------- | 
+| ![VGG16 - Training](https://github.com/michailtam/Emotion-recognition-from-images-using-deep-learning/blob/master/images/vgg16_train.png) | ![Inception v3 - Training](https://github.com/michailtam/Emotion-recognition-from-images-using-deep-learning/blob/master/images/inception3_train.png) |
+
+| VGG16 | Incpetion v3 |
+| ------------- | ------------- | 
+| ![VGG16 - Testing](https://github.com/michailtam/Emotion-recognition-from-images-using-deep-learning/blob/master/images/vgg16_test_unseen.png) | ![Inception v3 - Testing](https://github.com/michailtam/Emotion-recognition-from-images-using-deep-learning/blob/master/images/inception3_test_unseen.png) |
+
+| Comparison using the FER2013 test set |
+| ------------- | 
+| ![Comparison](https://github.com/michailtam/Emotion-recognition-from-images-using-deep-learning/blob/master/images/Comparison_using_test_set.png) | 
