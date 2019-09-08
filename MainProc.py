@@ -1,10 +1,6 @@
 #
-#       Author:                 Michail Tamvakeras
-#       Postgraduate course:    MSc in Intelligent Information Systems (MIIS)
-#       University:             University of the Aegean
-#       Department:             Information and Communication Systems Engineering
-#
-#       MSc Thesis:             Facial emotion recognition using deep learning
+#       Project:             Facial emotion recognition using deep learning
+#       Developer:           Michail Tamvakeras
 #
 
 from FERManager import *
