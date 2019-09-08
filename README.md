@@ -1,10 +1,6 @@
-# Facial Expression Recognition using Deep Learning #
+# Facial Expression Recognition using Deep Learning - Python Code#
 
-The ability to predict emotions based on static or dynamic images has improved the computer vision and robotics field and remains a major research topic. Computer vision is the task of detecting or recognizing objects and persons on images or videos. 
-
-
-
-Another important task is to predict the emotion of a person’s face, which is called FER (facial emotion recognition). For example, in health care, a device or robot can observe the state of a person and call the ambulance if the person looks to be sick. An application could play specific types of songs i.e. Soul, Blues, Rock, etc. based on the mood of a person or a suspicious person or weapon could be detected by cameras. These are only some application fields, but there are existing many more. 
+The ability to predict emotions based on static or dynamic images has improved the computer vision and robotics field and remains a major research topic. Computer vision is the task of detecting or recognizing objects and persons on images or videos. Another important task is to predict the emotion of a person’s face, which is called FER (facial emotion recognition). For example, in health care, a device or robot can observe the state of a person and call the ambulance if the person looks to be sick. An application could play specific types of songs i.e. Soul, Blues, Rock, etc. based on the mood of a person or a suspicious person or weapon could be detected by cameras. These are only some application fields, but there are existing many more. 
 
 ## Convolutional Neural Networks
 The components which are able to extract and classify visual information’s are the convolutional neural networks (CNN's). They comprise filters (kernels) and have a shallow or deep layer structure, whereas the lower layers are able to detect and extract simple visual features like lines and edges and the deeper layers more complex features like eyes, mouth, etc. If you want to learn more about these networks you can take a look at this paper: [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). 
