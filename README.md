@@ -1,4 +1,4 @@
-# Emotion recognition from images using deep learning - Python Code #
+# Emotion Recognition From Images Using Deep Learning - Python Code #
 
 The ability to predict emotions based on static or dynamic images has improved the computer vision and robotics field and remains a major research topic. Computer vision is the task of detecting or recognizing objects and persons on images or videos. Another important task is to predict the emotion of a person’s face, which is called FER (facial emotion recognition). For example, in health care, a device or robot can observe the state of a person and call the ambulance if the person looks to be sick. An application could play specific types of songs i.e. Soul, Blues, Rock, etc. based on the mood of a person or a suspicious person or weapon could be detected by cameras. These are only some application fields, but there are existing many more. 
 
